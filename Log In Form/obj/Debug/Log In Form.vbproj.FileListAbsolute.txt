@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\Log In Form\bin\Debug\Log In Form.exe.config
+C:\Users\Admin\source\repos\Log In Form\bin\Debug\Log In Form.exe
+C:\Users\Admin\source\repos\Log In Form\bin\Debug\Log In Form.pdb
+C:\Users\Admin\source\repos\Log In Form\bin\Debug\Log In Form.xml
+C:\Users\Admin\source\repos\Log In Form\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Admin\source\repos\Log In Form\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log In Form.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log_In_Form.Form1.resources
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log_In_Form.Form2.resources
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log_In_Form.Resources.resources
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log In Form.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log In Form.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log In F.FEB2BF54.Up2Date
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log In Form.exe
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log In Form.xml
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log In Form.pdb
+C:\Users\Admin\source\repos\Log In Form\bin\Debug\Log In Form.exe.manifest
+C:\Users\Admin\source\repos\Log In Form\bin\Debug\Log In Form.application
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log In Form.exe.manifest
+C:\Users\Admin\source\repos\Log In Form\obj\Debug\Log In Form.application
