@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Parallel Resistor\bin\Debug\Parallel Resistor.exe.config
+C:\Users\Admin\source\repos\Parallel Resistor\bin\Debug\Parallel Resistor.exe
+C:\Users\Admin\source\repos\Parallel Resistor\bin\Debug\Parallel Resistor.pdb
+C:\Users\Admin\source\repos\Parallel Resistor\bin\Debug\Parallel Resistor.xml
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel Resistor.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel_Resistor.Form1.resources
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel_Resistor.Resources.resources
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel Resistor.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel Resistor.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel Resistor.exe
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel Resistor.xml
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel Resistor.pdb
+C:\Users\Admin\source\repos\Parallel Resistor\bin\Debug\Parallel Resistor.exe.manifest
+C:\Users\Admin\source\repos\Parallel Resistor\bin\Debug\Parallel Resistor.application
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel Resistor.exe.manifest
+C:\Users\Admin\source\repos\Parallel Resistor\obj\Debug\Parallel Resistor.application
