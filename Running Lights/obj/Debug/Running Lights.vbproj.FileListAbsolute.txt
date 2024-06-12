@@ -1,0 +1,19 @@
+C:\Users\Admin\source\repos\Running Lights\bin\Debug\Running Lights.exe.config
+C:\Users\Admin\source\repos\Running Lights\bin\Debug\Running Lights.exe
+C:\Users\Admin\source\repos\Running Lights\bin\Debug\Running Lights.pdb
+C:\Users\Admin\source\repos\Running Lights\bin\Debug\Running Lights.xml
+C:\Users\Admin\source\repos\Running Lights\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Admin\source\repos\Running Lights\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running Lights.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running_Lights.Form1.resources
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running_Lights.Resources.resources
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running Lights.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running Lights.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running .638D9C07.Up2Date
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running Lights.exe
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running Lights.xml
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running Lights.pdb
+C:\Users\Admin\source\repos\Running Lights\bin\Debug\Running Lights.exe.manifest
+C:\Users\Admin\source\repos\Running Lights\bin\Debug\Running Lights.application
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running Lights.exe.manifest
+C:\Users\Admin\source\repos\Running Lights\obj\Debug\Running Lights.application

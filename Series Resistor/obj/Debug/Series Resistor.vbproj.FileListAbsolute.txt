@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Series Resistor\bin\Debug\Series Resistor.exe.config
+C:\Users\Admin\source\repos\Series Resistor\bin\Debug\Series Resistor.exe
+C:\Users\Admin\source\repos\Series Resistor\bin\Debug\Series Resistor.pdb
+C:\Users\Admin\source\repos\Series Resistor\bin\Debug\Series Resistor.xml
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series Resistor.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series_Resistor.Form1.resources
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series_Resistor.Resources.resources
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series Resistor.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series Resistor.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series Resistor.exe
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series Resistor.xml
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series Resistor.pdb
+C:\Users\Admin\source\repos\Series Resistor\bin\Debug\Series Resistor.exe.manifest
+C:\Users\Admin\source\repos\Series Resistor\bin\Debug\Series Resistor.application
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series Resistor.exe.manifest
+C:\Users\Admin\source\repos\Series Resistor\obj\Debug\Series Resistor.application

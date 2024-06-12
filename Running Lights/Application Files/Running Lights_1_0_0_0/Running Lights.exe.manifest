@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Running Lights.exe" version="1.0.0.0" publicKeyToken="8731453e3cd383d2" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Running Lights" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Running Lights.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualBasic.PowerPacks.dll" size="352256">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ge3qaWpdQthkHqvQPFfRHEI2kVtIQVfVJ0MEY0RDClA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Running Lights.exe" size="19936">
+      <assemblyIdentity name="Running Lights" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>DlwA7ulxuf0UJsE+t/+uc0vOdpUKkH7tMa3HtkUQPYM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Running Lights.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VDy5/VrQni+RSOb/6uEMWMc6bGQEaa2e2UdeWG+KK1I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-PK3JQC7\Admin" issuerKeyHash="52d9bedd322180af6c45b5d6cffabf475bb69175" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gziYxWi+j1GBTEePiSgp4NZYXMBNB291xNYFZmQl5wc=</DigestValue></Reference></SignedInfo><SignatureValue>ijWrtdWl+do6eT/h6C1kosIENxS6EFxWjTuQ+n58nvkK8WTn4P+z78MDcfxsV0JOCrZBFI5sddYhlOWwqnBsgvL6NMVutCB5dG+pJHb4N98pkEf/fYF9roPFUzbRQA4y6OXuNvM1zIOYhr/Vfr4bb2vQ3cYQCbmqE2gNpmFmtjQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>14E1fmoXZj5O5hJZ5uhq6LKwkPYE2UhvUEW6FAQzeLjaqjsSFz1syQVwcFB6y1035n1P3Cy6IvA3JLROF6EB5YaXl6EqZknHODdA3gIo6y5CKlf0yCidn06h1hxzQRfxMDnMnUDIIlCuZBLwb+jeE37e+7rnCb2Nb5nBraRbZs0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="07e725646605d6c4756f074dc05c58d6e02928898f474c81518fbe68c5983883" Description="" Url=""><as:assemblyIdentity name="Running Lights.exe" version="1.0.0.0" publicKeyToken="8731453e3cd383d2" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-PK3JQC7\Admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>NIZMUaJr4mvw/h3rceW3cte/O1PRu9Vs34iKI0U2rqs=</DigestValue></Reference></SignedInfo><SignatureValue>ZD4Xznuz3CQyIgLScPEnIFWclR6FpZIpABtIgu3DkjzLpYUxu5X4lssHFQHV4UvBnVl/xTgEBLZP4oA7EuBOQo+mQZSGaaad40dXy5maqZOG4t8U9EKSnnsHsVY3ETz1ZBmWm6ie8FiZMg49KLCQPSJWYXlr+xTYVwIYsSStbm4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>14E1fmoXZj5O5hJZ5uhq6LKwkPYE2UhvUEW6FAQzeLjaqjsSFz1syQVwcFB6y1035n1P3Cy6IvA3JLROF6EB5YaXl6EqZknHODdA3gIo6y5CKlf0yCidn06h1hxzQRfxMDnMnUDIIlCuZBLwb+jeE37e+7rnCb2Nb5nBraRbZs0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQHOu7unXcJJhAGD8qN37GSjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFAASwAzAEoAUQBDADcAXABBAGQAbQBpAG4wHhcNMjQwNTE4MTY1MDMzWhcNMjUwNTE4MjI1MDMzWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFAASwAzAEoAUQBDADcAXABBAGQAbQBpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANeBNX5qF2Y+TuYSWeboauiysJD2BNlIb1BFuhQEM3i42qo7Ehc9bMkFcHBQestdN+Z9T9wsuiLwNyS0ThehAeWGl5ehKmZJxzg3QN4CKOsuQipX9MgonZ9OodYcc0EX8TA5zJ1AyCJQrmQS8G/o3hN+3vu65wm9jW+Zwa2kW2bNAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAfZhMPp4sa6eXbm1EIbsqD3hGGu+i+f1JOy/G/jaFCs7SVQcGQopOXmoQxq9qyxaAmqui2QLbdpfvulXjMa6PE9m6/4PxPeaBmouXgTVgmyiZuS/UGdYbPgyeQTow56rukRxgkIsU/kqYw+5Cuyz/NmsH/nLlQ3R3AoiTKCpy9E8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
