@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Emotions\bin\Debug\Emotions.exe.config
+C:\Users\Admin\source\repos\Emotions\bin\Debug\Emotions.exe
+C:\Users\Admin\source\repos\Emotions\bin\Debug\Emotions.pdb
+C:\Users\Admin\source\repos\Emotions\bin\Debug\Emotions.xml
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.Form1.resources
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.Resources.resources
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.exe
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.xml
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.pdb
+C:\Users\Admin\source\repos\Emotions\bin\Debug\Emotions.exe.manifest
+C:\Users\Admin\source\repos\Emotions\bin\Debug\Emotions.application
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.exe.manifest
+C:\Users\Admin\source\repos\Emotions\obj\Debug\Emotions.application
