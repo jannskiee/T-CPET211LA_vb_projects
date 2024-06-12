@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="T-CPET211LA_Questionnaire.exe" version="1.0.0.0" publicKeyToken="7f6d3b84b14f857e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="T-CPET211LA_Questionnaire" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="T-CPET211LA_Questionnaire.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="T-CPET211LA_Questionnaire.exe" size="128480">
+      <assemblyIdentity name="T-CPET211LA_Questionnaire" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>GAhmzfNPlFuAUD/GoNpaC4/VutT6rCu5s1Os7W20F20=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="T-CPET211LA_Questionnaire.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VDy5/VrQni+RSOb/6uEMWMc6bGQEaa2e2UdeWG+KK1I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-PK3JQC7\Admin" issuerKeyHash="e960c45938c415f678259ab91dee49f33e0f6ee5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+PNVMXyFXnqXxkJ9+l+iTSR0WLpKHUHoQciqOvLQzAk=</DigestValue></Reference></SignedInfo><SignatureValue>VXbhDjChAol1L+a15c6ytQIZlVz4cYPjoZTIx0TgdnFjiSqNvkGEavBO7/azjlJCVqu5RBv6FruwvrSe7LQr4QDfdVgEvL8WJTop3tsZ3xyxtQBuW8QwAX9aSS9Qhghkjnf7mOtl/TJSY5U+jaXC43X4f7B8QSNTIhIg8JoYF2o=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>s5uMKnLky7x9Psg/xwwM8yAgGHwIjqkW490UxtOaGSjtd36JztKJu8ZCC2qcBT+VePdLkCrSohS8fu2JbcaQ8Q/mvsc07rpFm5vxuLD3wGVIeUufVt5EncfMm19MvtlWRmiowfRJ0+wC+1MC+7PvlzTcJcyiTwRFj8sjhlz3NF0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="09ccd0f23aaac841e8411d4aba5874244da25ffa7d42c6977a5e857c3155f3f8" Description="" Url=""><as:assemblyIdentity name="T-CPET211LA_Questionnaire.exe" version="1.0.0.0" publicKeyToken="7f6d3b84b14f857e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-PK3JQC7\Admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>XBw2eHSzvUsR2K76JbqRRv2xBvw4fSyJyRpZEiPbjZM=</DigestValue></Reference></SignedInfo><SignatureValue>Fo3lx8aEHZ6NLNj1+mcd4sGFe0J+xOe08g8zYAgh2y2bjNr0pJ0vXRQHEDOnxGvU5a7vFL3gtQBxk+3wooUl9+/qTCOa3xW25yrygPfe4SjkylpDeLtYsthbxs/2JNL9e6ES1wo4uiJO149GP9gb7ZJA9VmloDhjTpvKHgeEr3I=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>s5uMKnLky7x9Psg/xwwM8yAgGHwIjqkW490UxtOaGSjtd36JztKJu8ZCC2qcBT+VePdLkCrSohS8fu2JbcaQ8Q/mvsc07rpFm5vxuLD3wGVIeUufVt5EncfMm19MvtlWRmiowfRJ0+wC+1MC+7PvlzTcJcyiTwRFj8sjhlz3NF0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQehVdYirelbtFqiGGgHTbuTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFAASwAzAEoAUQBDADcAXABBAGQAbQBpAG4wHhcNMjQwNTEwMTYxNTI4WhcNMjUwNTEwMjIxNTI4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFAASwAzAEoAUQBDADcAXABBAGQAbQBpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALObjCpy5Mu8fT7IP8cMDPMgIBh8CI6pFuPdFMbTmhko7Xd+ic7SibvGQgtqnAU/lXj3S5Aq0qIUvH7tiW3GkPEP5r7HNO66RZub8biw98BlSHlLn1beRJ3HzJtfTL7ZVkZoqMH0SdPsAvtTAvuz75c03CXMok8ERY/LI4Zc9zRdAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAZMeGrFhEqm28/RFJ/45vmg9uLklCAL+p7P/sJBXHLsEdCquaIJzyk5+HdHXifVK3W+oQY7jP2g7OLMqf5QZxhHlGAEiOTQyq0qyYAw7TN43hq4vxNhMnrS0ez5CUpd+LJG0vPpUO0Vw6rvrLbF7L91FXOpL+lgq48TC3qAdeJlc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

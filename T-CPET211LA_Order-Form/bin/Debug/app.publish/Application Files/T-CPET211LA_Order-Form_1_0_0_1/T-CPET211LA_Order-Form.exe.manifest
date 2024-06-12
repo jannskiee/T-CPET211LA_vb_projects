@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="T-CPET211LA_Order-Form.exe" version="1.0.0.1" publicKeyToken="56eed286a2b42262" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="T-CPET211LA_Order-Form" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="T-CPET211LA_Order-Form.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="T-CPET211LA_Order-Form.exe" size="31200">
+      <assemblyIdentity name="T-CPET211LA_Order-Form" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>yhEwTSJ3ZxMngj/BUNrO6PmJM7Z1XAmo3XQj+iMVnH8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="T-CPET211LA_Order-Form.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VDy5/VrQni+RSOb/6uEMWMc6bGQEaa2e2UdeWG+KK1I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-PK3JQC7\Admin" issuerKeyHash="57b0a8fbf147cb5bbbf4d0de50944558df14bd67" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>1c01g5Lrb91e1/7G/Pto6XANLCg8Ek5omSrPkFqp5mA=</DigestValue></Reference></SignedInfo><SignatureValue>2IqXaiDmBMLKHsYiaduWlFFM0Fl8r61I8gE6Iv6M8CmvT/A2UGBgkXYDXt27Jua6dF+5ZP4dAfJSYDhh7f+FxqjWeo1+4/3EcPRmQFi56FEiU88am1B664zaHTK2B5xVDqA4B8WhQfvUlgt06rAh0Pwrlps6foKDHnwn/R5b+Iw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2L6arkMOehgFq6mdIKL1UJpSAvCHB9YQ9GyKeskBSXBwlHX0FX4HyYVVpm3UdE7Y51XC6LsK/XgE7Y6BMgDJX2HRTDieeToJaa/+RY/c9E5eq9GiIhV1f88HqAiojgMJzP4iAkZOPY1sxmDyDRmsSBoi9IjbGqJpgntt71NPmIE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="60e6a95a90cf2a99684e123c282c0d70e968fbfcc6fed75edd6feb928335cdd5" Description="" Url=""><as:assemblyIdentity name="T-CPET211LA_Order-Form.exe" version="1.0.0.1" publicKeyToken="56eed286a2b42262" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-PK3JQC7\Admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>6ek61V0sBHmQzcimKBSQJ8s3pO37+VQanGDHRyyBTC4=</DigestValue></Reference></SignedInfo><SignatureValue>EP2l6JMlf/OVeRtVmlMH5L/u2jUxg11ql2VEZDYwtJQ0D1g1D5xV8p8uJovSX31EtUng0QN6OiuR61AorgkGn/lc+Yj3wLcy6q6GMUe9rXasi7sYNdwCIKrBaXNfDJc95aXjpLvj0mj7CcSE2U7noXWwNcJwncMurs0AjmrH//U=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2L6arkMOehgFq6mdIKL1UJpSAvCHB9YQ9GyKeskBSXBwlHX0FX4HyYVVpm3UdE7Y51XC6LsK/XgE7Y6BMgDJX2HRTDieeToJaa/+RY/c9E5eq9GiIhV1f88HqAiojgMJzP4iAkZOPY1sxmDyDRmsSBoi9IjbGqJpgntt71NPmIE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQFC+fcvzB17FEJ/r7thlE7zANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFAASwAzAEoAUQBDADcAXABBAGQAbQBpAG4wHhcNMjQwNTEwMTYxMTQ3WhcNMjUwNTEwMjIxMTQ3WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFAASwAzAEoAUQBDADcAXABBAGQAbQBpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANi+mq5DDnoYBaupnSCi9VCaUgLwhwfWEPRsinrJAUlwcJR19BV+B8mFVaZt1HRO2OdVwui7Cv14BO2OgTIAyV9h0Uw4nnk6CWmv/kWP3PROXqvRoiIVdX/PB6gIqI4DCcz+IgJGTj2NbMZg8g0ZrEgaIvSI2xqiaYJ7be9TT5iBAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAvHko//BZFP1NV8rgKeoZtzgwd8E0oXxkWgPOieHFHeHFhD3hvrpl82ezAD1iQMkNL9mnuo9D3wEfalCKKHEVul1lqV8OZcULAZWmf8pW/EvV4MKZtQbGm0NEF9huQrs4JPH9mqDb8yYuEOIaiMeia2CO5oiXyIKyiLDTFKGvWQs=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
