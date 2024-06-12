@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\Multiple Forms\bin\Debug\Multiple Forms.exe
+C:\Users\Admin\source\repos\Multiple Forms\bin\Debug\Multiple Forms.exe.config
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple Forms.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple_Forms.Form1.resources
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple_Forms.Form2.resources
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple_Forms.Form3.resources
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple_Forms.Form4.resources
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple_Forms.Form5.resources
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple_Forms.Resources.resources
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple Forms.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple Forms.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple Forms.exe
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple Forms.xml
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple Forms.pdb
+C:\Users\Admin\source\repos\Multiple Forms\bin\Debug\Multiple Forms.pdb
+C:\Users\Admin\source\repos\Multiple Forms\bin\Debug\Multiple Forms.xml
+C:\Users\Admin\source\repos\Multiple Forms\bin\Debug\Multiple Forms.exe.manifest
+C:\Users\Admin\source\repos\Multiple Forms\bin\Debug\Multiple Forms.application
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple Forms.exe.manifest
+C:\Users\Admin\source\repos\Multiple Forms\obj\Debug\Multiple Forms.application
